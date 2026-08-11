@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Zaienscookie
 
-**DevOps / Full-stack Developer** · 云计算 & 自动化
+**DevOps / Full-stack Developer** · 云计算 & 自动化 · [博客](https://zain-blog-90w.pages.dev)
 
 ---
 
@@ -11,7 +11,6 @@
 | 🔗 个人主页 | [bonjour.bio/b8qfqm](https://bonjour.bio/b8qfqm) |
 | 📧 邮箱 | zaiens_cookie@outlook.com |
 | 📝 CSDN | [blog.csdn.net/reload111](https://blog.csdn.net/reload111) |
-| 📝 博客 | [zain-blog-90w.pages.dev](https://zain-blog-90w.pages.dev) |
 
 ---
 
