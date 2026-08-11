@@ -12,6 +12,7 @@
 | 📧 邮箱 | zaiens_cookie@outlook.com |
 | 📝 CSDN | [blog.csdn.net/reload111](https://blog.csdn.net/reload111) |
 | 📦 GitHub | [github.com/Zaienscookie](https://github.com/Zaienscookie) |
+| 📝 博客 | [zain-blog-90w.pages.dev](https://zain-blog-90w.pages.dev) |
 
 ---
 
