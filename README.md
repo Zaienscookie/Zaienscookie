@@ -30,7 +30,7 @@ AdventureX 2026 选手。
 ### 🛠 Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,go,bash,html,css,lua&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,java,go,bash,html,css,lua&perline=11" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,git,github,githubactions,gradle,nodejs,flask&perline=10" />
@@ -41,6 +41,8 @@ AdventureX 2026 选手。
 
 **Languages**
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
