@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Zaienscookie
 
-**DevOps / Full-stack Developer** · 云计算 & 自动化 · [博客](https://zain-blog-90w.pages.dev)
+**DevOps / Full-stack Developer** · Cloud & Automation · [Blog](https://zain-blog-90w.pages.dev)
 
 ---
 
@@ -14,16 +14,16 @@
 
 ---
 
-### 关于我
+### About Me
 
-2026-08-10 | #about
+`2026-08-10` · `#about`
 
-河北人在天津，大学生，一个把代码和画布都当玩具的人。
+A student from Hebei, currently based in Tianjin — someone who treats both **code** and **canvas** as toys.
 
-全栈开发、运维、AI、安全、设计……感兴趣就会去折腾。
+Full-stack development, DevOps, AI, security, design... if it's interesting, I'll dive right in.
 
-AdventureX 2026 选手。
-相信代码能变成服务，想法能变成线条。
+**AdventureX 2026** participant.
+I believe **code can become services, and ideas can become lines.**
 
 ---
 
