@@ -14,6 +14,19 @@
 
 ---
 
+### 关于我
+
+2026-08-10 | #about
+
+河北人在天津，大学生，一个把代码和画布都当玩具的人。
+
+全栈开发、运维、AI、安全、设计……感兴趣就会去折腾。
+
+AdventureX 2026 选手。
+相信代码能变成服务，想法能变成线条。
+
+---
+
 ### 🛠 Languages and Tools
 
 <p>
@@ -56,16 +69,3 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-### 关于我
-
-2026-08-10 | #about
-
-河北人在天津，大学生，一个把代码和画布都当玩具的人。
-
-全栈开发、运维、AI、安全、设计……感兴趣就会去折腾。
-
-AdventureX 2026 选手。
-相信代码能变成服务，想法能变成线条。
