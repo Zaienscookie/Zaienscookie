@@ -29,6 +29,16 @@ AdventureX 2026 选手。
 
 ### 🛠 Languages and Tools
 
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,java,go,bash,html,css&perline=10" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,vue,nginx,docker,mysql,mongodb,postgres,redis,sqlite&perline=10" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,gradle,cloudflare,vscode,visualstudio,idea,androidstudio&perline=10" />
+</p>
+
 
 **Languages**
 
