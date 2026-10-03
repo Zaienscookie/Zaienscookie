@@ -29,15 +29,6 @@ AdventureX 2026 选手。
 
 ### 🛠 Languages and Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,java,go,bash,html,css,lua&perline=11" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,git,github,githubactions,gradle,nodejs,flask&perline=10" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql,sqlite,vscode,idea,figma&perline=8" />
-</p>
 
 **Languages**
 
@@ -51,6 +42,13 @@ AdventureX 2026 选手。
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Embedded & IoT**
+
+![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![LVGL](https://img.shields.io/badge/LVGL-2E5E9E?style=flat-square&logoColor=white)
+![Tuya](https://img.shields.io/badge/Tuya_T5AI-EC1C24?style=flat-square&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 **DevOps & Cloud**
 
@@ -71,8 +69,12 @@ AdventureX 2026 选手。
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**Editors**
+**Editors & IDEs**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
