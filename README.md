@@ -14,6 +14,13 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zaienscookie&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaienscookie&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true" />
+</p>
+
 ### About Me
 
 `2026-08-10` · `#about`
